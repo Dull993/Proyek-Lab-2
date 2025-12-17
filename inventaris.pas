@@ -220,4 +220,5 @@ begin  // Program utama - loop menu
   until pilihan = 7;
   
   writeln('Program selesai.');
+
 end.
