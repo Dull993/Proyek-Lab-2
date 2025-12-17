@@ -1,4 +1,4 @@
-program InventarisBarang;
+program Pengelola_Inventaris_Barang;
 uses crt;
 
 const MAX = 100;  // Batas maksimal barang
@@ -222,3 +222,4 @@ begin  // Program utama - loop menu
   writeln('Program selesai.');
 
 end.
+
