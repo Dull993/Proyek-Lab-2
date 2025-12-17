@@ -1,7 +1,7 @@
 # Proyek-Lab-2
 
 
-Nama Prokect   :Pengelola Inventaris
+Nama Project   :Pengelola Inventaris
 
 Nama Kelompok  :Nonchalant
 
