@@ -1,4 +1,4 @@
-# Project-Lab-2
+# Project-UAS-Lab-2
 
 
 Nama Project   :Pengelola Inventaris
